@@ -1,0 +1,18 @@
+.my-block-frontend {
+	padding: 1rem;
+	background-color: #dcfce7;
+	border: 1px solid #86efac;
+	border-radius: 0.5rem;
+	margin: 1rem 0;
+}
+
+.my-block-frontend__title {
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: #166534;
+	margin-bottom: 0.5rem;
+}
+
+.my-block-frontend__content {
+	color: #22c55e;
+}

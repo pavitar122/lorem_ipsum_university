@@ -1,0 +1,18 @@
+.my-block-editor {
+	padding: 1rem;
+	background-color: #e0f2fe;
+	border: 1px solid #7dd3fc;
+	border-radius: 0.5rem;
+	margin: 1rem 0;
+  }
+  
+  .my-block-editor__title {
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: #0369a1;
+	margin-bottom: 0.5rem;
+  }
+  
+  .my-block-editor__content {
+	color: #0ea5e9;
+  }
